@@ -1,10 +1,5 @@
 # Chukchi (ckt)
-Chukchi
-
-# Evenki (evn)
-
 Contains Chukchi paradigms
-
 
 ## Data
 
