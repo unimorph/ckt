@@ -1,10 +1,12 @@
 # Chukchi (ckt)
-Contains Chukchi paradigms
+Contains Chukchi paradigms (nouns and verbs)
 
 ## Data
 
 Source:
-- `ckt`: [TBA](http://TBA)
+- `ckt`: [https://chuklang.ru/](https://chuklang.ru/);
+
+Tyers, F. and Mishchenkova, K., 2020, December. Dependency annotation of noun incorporation in polysynthetic languages. In Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020) (pp. 195-204).
 
 ## Annotators
 Karina Sheifer, Maria Ryskin
@@ -18,6 +20,15 @@ TBA
 
 ## References
 ```
+@inproceedings{tyers2020dependency,
+  title={Dependency annotation of noun incorporation in polysynthetic languages},
+  author={Tyers, Francis and Mishchenkova, Karina},
+  booktitle={Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)},
+  pages={195--204},
+  year={2020}
+}
+
+
 @inproceedings{pimentel-ryskina-etal-2021-sigmorphon,
     title = "SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages",
     author = "Pimentel, Tiago  and
