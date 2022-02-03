@@ -9,7 +9,7 @@ Source:
 Tyers, F. and Mishchenkova, K., 2020, December. Dependency annotation of noun incorporation in polysynthetic languages. In Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020) (pp. 195-204).
 
 ## Annotators
-Karina Sheifer, Maria Ryskin
+Karina Sheifer, Maria Ryskina
 
 ## Paradigm Samples
 TBA
